@@ -22,7 +22,7 @@ class Literals {
         System.out.println(num6);
 
         boolean num7 = true;
-	    System.out.println(num7);
+	System.out.println(num7);
 
         char c = 'a';
         System.out.println(c);
